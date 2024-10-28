@@ -1,0 +1,5 @@
+Using MODERN Ecommerce website with React , Nodejs , Express, Mongose DB & Tailwindcss
+
+1.npm init -y
+
+2.npm install bcryptjs dotenv express express-async-handler jsonwebtoken mongoose morgan concurrently nodemon
